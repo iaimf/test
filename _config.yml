@@ -1,1 +1,4 @@
 theme: jekyll-theme-leap-day
+collections:
+  staff_members:
+    output: true
